@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">All</string>
+
+    <string name="first_screen_title_text_view">Hello Foods</string>
+    <string name="first_screen_desc_text_view">The easiest way</string>
+    <string name="second_screen_title_text_view">Hello Foods</string>
+    <string name="second_screen_desc_text_view"> to order food</string>
+    <string name="third_screen_title_text_view">Hello Foods</string>
+    <string name="third_screen_desc_text_view">from your favourite restaurant!</string>
+
+    <string name="screen_desc_text_view">Application anti- gaspillage de nourriture </string>
+    <string name="screen_btn_next_text">Suivant</string>
+    <string name="screen_btn_start_text">Commencer</string>
+    <string name="screen_skip_text">Passer</string>
+
+    <string name="loading_welcome_text">Bienvenue dans Hamm</string>
+
+    <string name="customer_nav_bar_place_item">Découvrir</string>
+    <string name="customer_nav_bar_products_item">Produits</string>
+    <string name="customer_nav_bar_favorites_item">Favoris</string>
+    <string name="customer_nav_bar_other_item">Plus</string>
+
+    <string name="seller_nav_bar_reservation_item">Reservations</string>
+    <string name="seller_nav_bar_dashboard_item">Dashboard</string>
+
+    <string name="seller_food_list_text">Liste des plats</string>
+
+
+    <string name="connexion_text">Se connecter</string>
+    <string name="connexion_underline_text"><u>Se connecter</u></string>
+    <string name="validation_text">Valider</string>
+    <string name="user_name_text">Nom d\'utilisateur</string>
+    <string name="password_text">Mot de passe</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_costumer_more">Plus</string>
+    <string name="title_activity_customer_more">Plus</string>
+
+    <string name="section_profile_info_text">Mon Compte</string>
+    <string name="section_settings_info_text">Paramètres</string>
+    <string name="section_reservations_info_text">Mes Réservations</string>
+    <string name="section_conditions_info_text">Conditions d\'utilisation</string>
+    <string name="section_help_info_text">Aide</string>
+    <string name="section_grade_info_text">Mes grades</string>
+    <string name="section_payment_info_text">Hisorique des paiements</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_tab_restaurant">Restaurant</string>
+    <string name="title_tab_fast_food">Fast-food</string>
+    <string name="title_tab_bakery">Boulangeries</string>
+
+    <string name="change_password_text">Changer de mot de passe</string>
+    <string name="contacts_us_text">Nous-contactez</string>
+    <string name="log_out_text">Se déconnecter</string>
+    <string name="notification_text">Notifications</string>
+
+    <string name="item_food_name">Nom du plat</string>
+    <string name="item_food_price">Prix</string>
+    <string name="item_food_nb">Qté</string>
+    <string name="item_food_nb_total">Qté totale</string>
+    <string name="item_food_restaurant_address">Address</string>
+
+    <string name="search_hint_text">Address</string>
+    <string name="title_activity_seller_more">Plus</string>
+    <string name="title_activity_user_settings">Paramètres</string>
+    <string name="title_activity_customer_reservation">Mes Réservations</string>
+    <string name="title_activity_seller_add_food">Publier un plat</string>
+    <string name="title_activity_seller_settings">Paramètres</string>
+    <string name="title_activity_seller_account">Mon comtpe</string>
+    <string name="title_activity_seller_help">Aide</string>
+    <string name="title_activity_seller_use_terms">Conditions d\'utilisation</string>
+
+    <string name="title_app_description_text">Hamm, Anti-gaspillage de nourriture</string>
+    <string name="title_app_connexion_text">Connexion</string>
+
+    <string name="description_text">Description</string>
+
+    <string name="phone_number_text">N° de téléphone</string>
+    <string name="user_has_not_account_text">Vous n\'avez pas de compte?</string>
+    <string name="user_has_account_text">Vous avez déja un compte?</string>
+    <string name="user_forgot_password_text">Mot de passe oublié?</string>
+    <string name="user_sign_up_text"><u>S\'inscrire</u></string>
+    <string name="title_activity_customer_account">Mon comtpe</string>
+    <string name="title_activity_customer_help">Aide</string>
+    <string name="title_activity_customer_use_terms">Conditions d\'utilisation</string>
+
+    <string name="food_name_text">Nom du produit</string>
+    <string name="button_publish_text">Publier</string>
+    <string name="save_text">Enregistrer</string>
+    <string name="edit_profile_text">Editer mon profil</string>
+
+    <string name="send_sms_text">Nous vous enverrons un sms sur cet numéro pour vérification </string>
+    <string name="verification_sms_text">Nous avons envoyé un code de 4 chiffres sur votre numéro, Veuillez renseigner le code </string>
+    <string name="verification_text">Vérification</string>
+
+    <string name="password_edit_text">Mot de passe</string>
+    <string name="confirm_password_edit_text">Confirmer</string>
+    <string name="continue_text">Continuer</string>
+
+    <string name="welcome_text">Bienvenue</string>
+    <string name="login_to_your_account_text">Connectez-vous à votre compte</string>
+    <string name="create_account_account_text">S\'inscrire</string>
+
+    <string name="name_edit_text">Nom</string>
+    <string name="details_text">Détails</string>
+    <string name="first_name_edit_text">Prénoms</string>
+    <string name="email_edit_text">Email</string>
+
+    <string name="user_reserved_text">Réserver</string>
+    <string name="card_text">Ajouter au panier</string>
+
+    <string name="product_name_edit_text">Nom du produit</string>
+    <string name="seller_ets_address_edit_text">Adresse de l\'établissement</string>
+    <string name="seller_ets_email_edit_text">Email de l\'établissement</string>
+    <string name="seller_ets_contacts_edit_text">Contacts</string>
+
+    <string name="dialog_confirmation_title_text">Confirmaion de fermeture</string>
+    <string name="dialog_confirmation_description_text">Êtes-vous sur de vouloir quitter l\'application  </string>
+    <string name="dashboard_text">Dashboard</string>
+    <string name="list_text">Liste</string>
+    <string name="add_text">Ajouter</string>
+    <string name="add_product_text">Ajouter un produit</string>
+    <string name="other_text">Autres</string>
+    <string name="user_nb_text">Nombre Utilisateurs</string>
+    <string name="product_nb_text">Nombre de produits par catégorie</string>
+    <string name="nb_text">nb</string>
+    <string name="title_activity_user_list">Liste des Utilisateurs</string>
+    <string name="title_activity_product_list">Liste des Produits </string>
+    <string name="title_activity_add_product">Ajouter un produit</string>
+    <string name="title_product_category">Catégorie</string>
+
+
+</resources>
